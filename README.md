@@ -5,7 +5,7 @@ since am bad at making cardds, made one for myself in html.
 A responsive **Carrd-inspired personal website** developed using **HTML, CSS, and JavaScript**. The project focuses on a clean interface, modern design principles, and subtle animations to present personal information in a visually appealing format.
 
 ## Live Demo
-
+https://bunnyfic.github.io/cardd-version-aboutme-/
 
 
 ---
